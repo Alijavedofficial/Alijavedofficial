@@ -1,6 +1,6 @@
 ### Hey, I'm Ali 👋🏽  
 
-I'm a Self taught Web developer, and I'm passionate about crafting digital experiences. 
+I'm a Self taught Web developer, and I'm passionate about crafting digital experiences. Adept at translating design concepts into clean, efficient, and maintainable code.
 
  
 ## 📦 Toolbox
@@ -17,7 +17,7 @@ I'm a Self taught Web developer, and I'm passionate about crafting digital exper
  
 ## ✨ Fun Facts 
 
-- Cricket is my favorite anime.
+- Cricket is my favorite game.
 - As a kid, I wanted to be an astronaut.
 
 ## 📫 Contact
