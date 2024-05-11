@@ -5,7 +5,7 @@ I'm a Self taught Web developer, and I'm passionate about crafting digital exper
  
 ## 📦 Toolbox
 
-**Frontend Development:** `Angular` `React` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion` `Gsap`
+**Frontend Development:** `Angular` `React` `TypeScript` `Tailwind` `Material-UI` `Gsap`
  
 **Version Control:** `Git` 
 
