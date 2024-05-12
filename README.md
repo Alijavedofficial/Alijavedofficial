@@ -18,7 +18,6 @@ I'm a Self taught Web developer, and I'm passionate about crafting digital exper
 ## ✨ Fun Facts 
 
 - Cricket is my favorite game.
-- As a kid, I wanted to be an astronaut.
 
 ## 📫 Contact
 
