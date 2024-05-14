@@ -7,13 +7,15 @@ I'm a Self taught Web developer, and I'm passionate about crafting digital exper
 
 **Frontend Development:** `Angular` `React` `TypeScript` `Tailwind` `Material-UI` `Gsap`
  
-**Version Control:** `Git` 
+**Version Control:** `Git` `Github`
 
 **Backend Development:** `Node` `Express` `Firebase` 
 
 **Testing:**  `Postman` 
 
-**Others:** `Highcharts` `Wordpress` `Webflow` `Figma`
+**Visualization:**  `D3.js` `Highcharts` `Chart.js` 
+
+**Others:**  `Wordpress` `Webflow` `Figma`
  
 ## ✨ Fun Facts 
 
