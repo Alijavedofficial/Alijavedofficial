@@ -2,6 +2,8 @@
 
 I'm a Self taught Web developer, and I'm passionate about crafting digital experiences. Adept at translating design concepts into clean, efficient, and maintainable code.
 
+- Explore my [blog](https://alijaved.hashnode.dev/) where I share insights and learnings.
+- In my [Newsletter](https://alijaved.substack.com/), I share my learnings and tips to become a better developer.
  
 ## 📦 Toolbox
 
