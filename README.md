@@ -15,7 +15,7 @@ I'm a Self taught Web developer, and I'm passionate about crafting digital exper
 
 **Testing:**  `Postman` 
 
-**Visualization:**  `D3.js` `Highcharts` `Chart.js` 
+**Visualization:**  `Highcharts` `Chart.js` 
 
 **Others:**  `Wordpress` `Webflow` `Figma`
  
