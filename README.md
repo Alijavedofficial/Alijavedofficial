@@ -5,7 +5,7 @@ I'm a Self taught Web developer, and I'm passionate about crafting digital exper
 - Explore my [blog](https://alijaved.hashnode.dev/) where I delve into insights and discoveries.
 - In my [Newsletter](https://alijaved.substack.com/), I offer my insights and advice to help you grow as a developer.
  
-## 📦 Toolbox
+## SkillSet
 
 **Frontend Development:** `Angular` `React` `TypeScript` `Tailwind` `Material-UI` `Gsap`
  
@@ -18,11 +18,7 @@ I'm a Self taught Web developer, and I'm passionate about crafting digital exper
 **Visualization:**   `Chart.js` `HighCharts` `Google Charts`
 
 **Others:**  `Wordpress` `Webflow` `Figma` `Google Analytics`
- 
-## ✨ Fun Facts 
-
-- Cricket is my favorite game.
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/alijavedofficial/). 
+ DM me on [LinkedIn](https://www.linkedin.com/in/alijavedofficial/). 
