@@ -1,4 +1,4 @@
-### Hey, I'm Ali 👋🏽  
+### Hey, I'm Ali 
 
 I'm a Self taught Web developer, and I'm passionate about crafting digital experiences. Adept at translating design concepts into clean, efficient, and maintainable code.
 
@@ -11,7 +11,7 @@ I'm a Self taught Web developer, and I'm passionate about crafting digital exper
 
 **Backend Development:** `Node` `Express` `Firebase` 
 
-**Animations and Styling:**  `Tailwind` `Framer Motion` `Gsap` `Material UI` `Angular Material` 
+**Animations and Styling:**  `Tailwind` `Material UI` `Radix` `Shadcn` `Framer Motion` `Gsap`
 
 **Visualization:**   `Chart.js` `HighCharts` `Google Charts` `Apache Echarts`
 
@@ -19,6 +19,6 @@ I'm a Self taught Web developer, and I'm passionate about crafting digital exper
 
 **Others:**  `Redux` `Zustand` `Wordpress` `Webflow` `Figma` `Google Analytics`
 
-## 📫 Contact
+## Contact
 
  DM me on [LinkedIn](https://www.linkedin.com/in/alijavedofficial/). 
