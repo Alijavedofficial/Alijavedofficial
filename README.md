@@ -7,17 +7,17 @@ I'm a Self taught Web developer, and I'm passionate about crafting digital exper
  
 ## SkillSet
 
-**Frontend Development:** `Angular` `React` `TypeScript` `Tailwind` `Material-UI` `Gsap`
- 
-**Version Control:** `Git` `Github`
+**Frontend Development:** `Angular` `Next JS` `React JS` `TypeScript` `JavaScript` `Material-UI` `Gsap`
 
 **Backend Development:** `Node` `Express` `Firebase` 
 
-**Testing:**  `Postman` 
+**Animations and Styling:**  `Tailwind` `Framer Motion` `Gsap` `Material UI` `Angular Material` 
 
-**Visualization:**   `Chart.js` `HighCharts` `Google Charts`
+**Visualization:**   `Chart.js` `HighCharts` `Google Charts` `Apache Echarts`
 
-**Others:**  `Wordpress` `Webflow` `Figma` `Google Analytics`
+**Version Control:** `Git` `Github`
+
+**Others:**  `Redux` `Zustand` `Wordpress` `Webflow` `Figma` `Google Analytics`
 
 ## 📫 Contact
 
