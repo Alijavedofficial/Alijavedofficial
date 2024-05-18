@@ -11,7 +11,7 @@ I'm a Self taught Web developer, and I'm passionate about crafting digital exper
 
 **Backend Development:** `Node` `Express` `Firebase` 
 
-**Animations and Styling:**  `Tailwind` `Material UI` `Radix` `Shadcn` `Framer Motion` `Gsap`
+**Animations and Styling:**  `Tailwind` `Material UI` `Radix` `Framer Motion` `Gsap`
 
 **Visualization:**   `Chart.js` `HighCharts` `Google Charts` `Apache Echarts`
 
