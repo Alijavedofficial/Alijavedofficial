@@ -15,7 +15,7 @@ I'm a Self taught Web developer, and I'm passionate about crafting digital exper
 
 **Visualization:**   `Chart.js` `HighCharts` `Google Charts` `Apache Echarts`
 
-**Version Control:** `Git` `Github`
+**Version Control:** `Git`
 
 **Others:**  `Redux` `Zustand` `Wordpress` `Webflow` `Figma` `Google Analytics`
 
