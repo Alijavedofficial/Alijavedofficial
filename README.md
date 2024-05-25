@@ -7,9 +7,9 @@ I'm a Self taught Web Developer, and I'm passionate about crafting digital exper
  
 ## SkillSet
 
-**Frontend Development:** `Angular` `Next JS` `React JS` `TypeScript` `JavaScript`
+**Frontend:** `Angular` `Next JS` `React JS` `TypeScript` `JavaScript`
 
-**Backend Development:** `Node` `Express` `Firebase` 
+**Backend:** `Node` `Express` `Firebase` 
 
 **Animations and Styling:**  `Tailwind` `Material UI` `Radix` `Framer Motion` `Gsap`
 
