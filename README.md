@@ -11,6 +11,8 @@ I'm a Self taught Web Developer, and I'm passionate about crafting digital exper
 
 **Backend:** `Node` `Express` `Firebase` 
 
+**Testing:** `Postman` `Insomnia` `Jest` 
+
 **Animations and Styling:**  `Tailwind` `Material UI` `Radix` `Framer Motion` `Gsap`
 
 **Visualization:**   `Chart.js` `HighCharts` `Google Charts` `Apache Echarts`
