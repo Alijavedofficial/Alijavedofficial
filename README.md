@@ -19,7 +19,7 @@ I'm a Self taught Web Developer, and I'm passionate about crafting digital exper
 
 **Version Control:** `Git`
 
-**Others:**  `Redux` `Zustand` `Wordpress` `Webflow` `Figma` `Google Analytics` `Blender` `Excel`
+**Others:**  `Redux` `Zustand` `Wordpress` `Webflow` `Figma` `Google Analytics` `Blender` 
 
 ## Contact
 
