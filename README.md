@@ -24,3 +24,4 @@ I'm a Self taught Web Developer, and I'm passionate about crafting digital exper
 ## Contact
 
  DM me on [LinkedIn](https://www.linkedin.com/in/alijavedofficial/). 
+ Hire me on [UpWork](https://www.upwork.com/freelancers/~015597145b7bf1d85c).
