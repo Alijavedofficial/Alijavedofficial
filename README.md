@@ -1,6 +1,6 @@
 ### Hey, I'm Ali 
 
-I'm a Self taught Web Developer, and I'm passionate about crafting digital experiences. Adept at translating design concepts into clean, efficient, and maintainable code.
+Web Developer passionate about crafting digital experiences. Adept at translating design concepts into clean, efficient, and maintainable code.
 
 - Explore my [blog](https://alijaved.hashnode.dev/) where I delve into insights and discoveries.
 - In my [Newsletter](https://alijaved.substack.com/), I offer my insights and advice to help you grow as a developer.
