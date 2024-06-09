@@ -26,7 +26,7 @@ Web Developer specializing in high-performance Frontend and Backend frameworks, 
 When I'm not coding, you'll often find me on the cricket field, engrossed in writing, or enjoying movie marathons with captivating storylines
 
 
-##📫Contact
+## 📫Contact
 
 - DM me on [LinkedIn](https://www.linkedin.com/in/alijavedofficial/).
 - Hire me on [UpWork](https://www.upwork.com/freelancers/~015597145b7bf1d85c).
