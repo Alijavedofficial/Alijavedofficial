@@ -21,7 +21,7 @@ Web Developer specializing in high-performance Frontend and Backend frameworks, 
 
 **Others:**  `Redux` `Zustand` `Wordpress` `Webflow` `Figma` `Google Analytics` `Blender` 
 
-##✨Fun Facts
+## ✨Fun Facts
 
 When I'm not coding, you'll often find me on the cricket field, engrossed in writing, or enjoying movie marathons with captivating storylines
 
