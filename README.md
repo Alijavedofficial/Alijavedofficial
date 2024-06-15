@@ -11,7 +11,7 @@ Web Developer specializing in high-performance Frontend and Backend frameworks, 
 
 **Backend:** `Node` `Express` `Firebase` 
 
-**Testing:** `Postman` `Insomnia` `Jest` 
+**Testing:** `Postman` `Insomnia`
 
 **Animations and Styling:**  `Tailwind` `Material UI` `Radix` `Framer Motion` `Gsap`
 
