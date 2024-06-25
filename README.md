@@ -9,7 +9,7 @@ Web Developer specializing in high-performance Frontend and Backend frameworks, 
 
 **Frontend:** `Angular` `Next JS` `React JS` `TypeScript` `JavaScript`
 
-**Backend:** `Node` `Express` `Firebase` 
+**Backend:** `Node` `Express` `Firebase` `Supabase` `Mongo Db`
 
 **Testing:** `Postman` `Insomnia`
 
