@@ -13,7 +13,7 @@ Full Stack Developer specializing in high-performance Frontend and Backend frame
 
 **Backend:** `Node` `Express` `Firebase` `Supabase` `Mongo Db`
 
-**Testing:** `Postman` `Insomnia`
+**Testing:** `Jest` `Postman` `Insomnia`
 
 **Animations and Styling:**  `Tailwind` `Material UI` `Radix` `Framer Motion` `Gsap`
 
