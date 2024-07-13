@@ -4,6 +4,18 @@ Web Developer specializing in high-performance Frontend and Backend frameworks, 
 
 - Explore my [blog](https://alijaved.hashnode.dev/) where I delve into insights and discoveries.
 - In my [Newsletter](https://alijaved.substack.com/), I offer my insights and advice to help you grow as a developer.
+
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alijavedofficial&label=Profile%20views&color=0e75b6&style=flat" alt="alijavedofficial" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alijavedofficial" alt="alijavedofficial" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alijavedofficial&show_icons=true&locale=en" alt="alijavedofficial" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alijavedofficial&" alt="alijavedofficial" /></p>
  
 ## 📦SkillSet
 
