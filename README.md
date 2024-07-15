@@ -11,7 +11,7 @@ Full Stack Developer specializing in high-performance Frontend and Backend frame
 
 **Frontend:** `Next JS` `React JS` `React Native` `Expo` `Angular` `TypeScript` `JavaScript`
 
-**Backend:** `Node` `Express` `Firebase` `Supabase` `Mongo Db`
+**Backend:** `Node Js` `Express Js` `Firebase` `Supabase` `Mongo Db`
 
 **Testing:** `Jest` `Postman` `Insomnia`
 
