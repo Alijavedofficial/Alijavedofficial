@@ -25,7 +25,7 @@ Full Stack Developer specializing in high-performance Frontend and Backend frame
 
 ## ✨Fun Facts
 
-When I'm not coding, you'll often find me on the cricket field, engrossed in writing, or enjoying movie marathons with captivating storylines
+When I'm not coding, you'll often find me on the cricket field, engrossed in writing, or enjoying movies with good stories
 
 
 ## 📫Contact
