@@ -18,7 +18,7 @@ Full Stack Developer specializing in high-performance Frontend and Backend frame
 **Animations and Styling:**  `Tailwind` `Material UI` `Radix` `Framer Motion` `Gsap`
 
 **Visualization:**   `Chart.js` `HighCharts` `Google Charts` `Apache Echarts`
-
+     
 **Version Control:** `Git`
 
 **Others:**  `Redux` `Zustand` `Wordpress` `Webflow` `Figma` `Google Analytics` `Blender` 
