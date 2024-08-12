@@ -15,9 +15,9 @@ Full Stack Developer specializing in high-performance Frontend and Backend frame
 
 **Animations and Styling:**  `Tailwind` `Material UI` `Radix` `Framer Motion` `Gsap`
 
-**Testing:** `Jest` `karma` `Jasmine`
+**Testing:** `Jest` `karma` `Jasmine` `Playwright`
 
-**Visualization:**   `Chart.js` `HighCharts` `Google Charts` `Apache Echarts`
+**Visualization:**   `Chart.js` `HighCharts` `D3 Js` `Google Charts` `Apache Echarts`
      
 **Version Control:** `Git`
 
