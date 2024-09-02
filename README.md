@@ -18,10 +18,8 @@ Full Stack Developer specializing in high-performance Frontend and Backend frame
 **Testing:** `Jest` `karma` `Jasmine` `Playwright` `Cypress`
 
 **Visualization:**   `Chart.js` `HighCharts` `D3 Js` `Google Charts` `Apache Echarts`
-     
-**Version Control:** `Git`
 
-**Others:**  `Redux` `Zustand` `Wordpress` `Webflow` `Figma` `Google Analytics` `Blender` 
+**Others:**  `Git` `Redux` `Zustand` `Wordpress` `Webflow` `Figma` `Google Analytics` `Blender` 
 
 ## ✨Fun Facts
 
