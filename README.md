@@ -11,7 +11,7 @@ Full Stack Developer specializing in high-performance Frontend and Backend frame
 
 **Frontend:** `Next JS` `React JS` `React Native` `Expo` `Angular` `TypeScript` `JavaScript`
 
-**Backend:** `Node Js` `Express Js` `Firebase` `Supabase` `Mongo Db` `Prisma`
+**Backend:** `Node Js` `Express Js` `Nest Js` `Graph Ql` `Firebase` `Supabase` `Mongo Db` `Sql`
 
 **Animations and Styling:**  `Tailwind` `Sass` `Material UI` `Radix` `Framer Motion` `Gsap` `Bootstrap`
 
