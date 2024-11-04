@@ -3,7 +3,7 @@
 Full Stack Developer specializing in high-performance Frontend and Backend frameworks, crafting dynamic web applications.
 
 - Explore my [blog](https://alijaved.hashnode.dev/) where I delve into insights and discoveries.
-- In my [Newsletter](https://alijaved.substack.com/), I offer my insights and advice to help you grow as a developer.
+- In my [Newsletter](https://alijaved.substack.com/), I offer my insights.
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=alijavedofficial&label=Profile%20views&color=0e75b6&style=flat" alt="alijavedofficial" /> </p>
 
