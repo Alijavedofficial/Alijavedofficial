@@ -13,7 +13,7 @@ Full Stack Developer specializing in high-performance Frontend and Backend frame
 
 **Backend:** `Node Js` `Express Js` `Nest Js` `Graph Ql` `Firebase` `Supabase` `Mongo Db` `Sql` `postgresql`
 
-**Animations and Styling:**  `Tailwind` `Sass` `Material UI` `Radix` `Framer Motion` `Gsap` `Bootstrap`
+**Animations and Styling:**  `Tailwind` `Three Js` `Sass` `Material UI` `Radix` `Framer Motion` `Gsap` `Bootstrap`
 
 **Testing:** `Jest` `karma` `Jasmine` `Playwright` `Cypress`
 
