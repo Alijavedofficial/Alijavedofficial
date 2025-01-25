@@ -17,7 +17,7 @@ Full Stack Developer specializing in high-performance Frontend and Backend frame
 
 **Testing:** `Jest` `karma` `Jasmine` `Playwright` `Cypress`
 
-**Others:**  `Git` `Redux` `Zustand` `Wordpress` `Webflow` `Figma` `Google Analytics` `Blender` 
+**Others:**  `Git` `Redux` `Zustand` `Wordpress` `Webflow` `Figma` `Google Analytics` `Blender` `Strapi`
 
 ## ✨Fun Facts
 
